@@ -9,14 +9,19 @@ margin:10px 15px 15px 60px
     overflow: hidden;
  }
  nav ul li{
+    font-size: 20pt;
     display: inline-block;
     list-style-type: none;
     width: 24%;
     height: 70px;
-    text-align: center;
     color:white ;
+    
+ }
+ ul li{
+     line-height: 80px;
  }
 ul {
+    text-align: center;
     width:100%;
     height:70px;
     float:left;
@@ -43,7 +48,17 @@ ul {
      text-align: center;
  }
  .container2{
-     
+     height:225px;
+     text-align: center;
+ }
+ .scroll{
+     display:inline-block;
+     width:480px;
+     height:225px;
+     border:1px solid black;
+     overflow-y: scroll;
+     margin:auto;
+
  }
  .column{
      display:inline-block;
@@ -54,6 +69,25 @@ ul {
  .fpic{
 
  }
+ footer{
+     margin:25px;
+     height:100px;
+     width:100%;
+    background:#333;
+    overflow: hidden;
+ }
+ .button{
+     background-color: black;
+     color:white;
+     float:left;
+     height:35px;
+     width:120px;
+     
+     
+ }
+button:hover{
+    background-color: blueviolet;
+}
 
  
 
