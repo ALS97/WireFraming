@@ -1,0 +1,64 @@
+
+#logo{
+float:left;
+position: relative;
+margin:10px 15px 15px 60px
+}
+#Logo{
+    background:#333;
+    overflow: hidden;
+ }
+ nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    width: 24%;
+    height: 70px;
+    text-align: center;
+    color:white ;
+ }
+ul {
+    width:100%;
+    height:70px;
+    float:left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+  }
+  #navrow{
+      float:left;
+      margin:10px 15px 15px 10px;
+      padding:0;
+      width:75%
+  }
+  #biggun{
+      height:450px;
+      width:960px;
+      display: block;
+      margin-left: auto;
+      margin-right:auto;
+      padding: 20px;
+  }
+ .container{
+     text-align: center;
+ }
+ .container2{
+     
+ }
+ .column{
+     display:inline-block;
+     padding:13px;
+     margin: auto;
+     
+ }
+ .fpic{
+
+ }
+
+ 
+
+
+  
+  
+  
+  
